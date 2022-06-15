@@ -1,5 +1,6 @@
 # Java-Frameworks
-## [Задача 1](https://github.com/romaRacoon/PP1_1)
+## Работа с БД. JDBC и Hibernate.
+### [Задача 1](https://github.com/romaRacoon/PP1_1)
 Задание:
 1. Пройти 2 первых блока в приложении https://learngitbranching.js.org (Введение и Едем дальше).
 2. Создать Git репозиторий на GitHub и залить туда пустой проект.
