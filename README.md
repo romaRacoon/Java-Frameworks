@@ -204,3 +204,7 @@ Byte age
 3. В приложении должна быть страница, на которую выводятся все юзеры с возможностью добавлять, удалять и изменять юзера.
 4. Конфигурация Spring через JavaConfig и аннотации, по аналогии с предыдущими проектами. Без использования xml. Без Spring Boot.
 5. Внесите изменения в конфигурацию для работы с базой данных. Вместо SessionFactory должен использоваться EntityManager.
+
+## Spring Boot, Spring Security и REST
+### [Задача 1](https://github.com/romaRacoon/SpringBoot_Security_REST)
+1. Необходимо перенести ваше CRUD-приложение на Spring Boot.
